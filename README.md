@@ -15,10 +15,10 @@
 # Tampilan
 
 - Tampilan Home :
-  [p](screenshot/ss1.png)
+  (screenshot/ss1.png)
 
 - Tampilan Data Warga :
-  [p](screenshot/ss2.png)
+  (screenshot/ss2.png)
 
 - Tampilan Daftar Kas Warga
-  [p](screenshot/ss3.png)
+  (screenshot/ss3.png)
