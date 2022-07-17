@@ -8,7 +8,7 @@
 
 # Tautan
 
-- [ Dokumentasi ](http://youtu.be/c8JSgOWPn-I?hd=1)
+- [ Link Yutube ](http://youtu.be/c8JSgOWPn-I?hd=1)
 
 - [ Program demo ](http://mariukcity.epizy.com/)
 
